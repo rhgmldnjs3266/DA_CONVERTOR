@@ -1,0 +1,214 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 J1.1           U1.7           U5.7           
+                                 U6.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +5V          pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -12V         pins ADDED TO this new net
+                                 J1.4           U1.4           U5.4           
+                                 U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLK          pins ADDED TO this new net
+                                 D2.2           R7.2           U4.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.2                           
+                                 D1.1                           
+                                 D2.1                           
+                                 J1.3                           
+                                 J2.2                           
+                                 R2.1                           
+                                 R3.2                           
+                                 R11.2                          
+                                 R17.1                          
+                                 U1.3                           
+                                 U4.2                           
+                                 U4.3                           
+                                 U4.6                           
+                                 U4.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00156       pins ADDED TO this new net
+                                 C1.1           R1.1           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00165       pins ADDED TO this new net
+                                 R1.2           R2.2           R4.1           
+                                 U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00576       pins ADDED TO this new net
+                                 R3.1           U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00687       pins ADDED TO this new net
+                                 R4.2           R5.1           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00856       pins ADDED TO this new net
+                                 R5.2           R6.1           U5.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N00858       pins ADDED TO this new net
+                                 D1.2           R6.2           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01419       pins ADDED TO this new net
+                                 R15.1          U4.1           U4.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01467       pins ADDED TO this new net
+                                 R14.1          U4.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01546       pins ADDED TO this new net
+                                 R13.1          U4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01569       pins ADDED TO this new net
+                                 R12.1          U4.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02242       pins ADDED TO this new net
+                                 R8.2           R9.1           R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02247       pins ADDED TO this new net
+                                 R9.2           R10.1          R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02254       pins ADDED TO this new net
+                                 R10.2          R11.1          R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02873       pins ADDED TO this new net
+                                 R16.1          R17.2          U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT          pins ADDED TO this new net
+                                 J2.1           R16.2          U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIG          pins ADDED TO this new net
+                                 R8.1           R12.2          U6.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 1N4148_DO35_D1N4148
+ 74LS90_DIP14_3_74LS90_+5V
+ CAP NP_CAP196_0.01UF
+ CON2_JUMPER2_CON2
+ CON4_JUMPER4_CON4
+ LM741_DIP8_3_LM741
+ R_RES400_10K
+ R_RES400_1K
+ R_RES400_22K
+ R_RES400_5.1K
+ R_RES400_6.8K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP196_0.01UF  
+ D1                  1N4148_DO35_D1N4148   
+ D2                  1N4148_DO35_D1N4148   
+ J1                  CON4_JUMPER4_CON4     
+ J2                  CON2_JUMPER2_CON2     
+ R1                  R_RES400_10K          
+ R2                  R_RES400_6.8K         
+ R3                  R_RES400_10K          
+ R4                  R_RES400_10K          
+ R5                  R_RES400_5.1K         
+ R6                  R_RES400_1K           
+ R7                  R_RES400_1K           
+ R8                  R_RES400_10K          
+ R9                  R_RES400_10K          
+ R10                 R_RES400_10K          
+ R11                 R_RES400_10K          
+ R12                 R_RES400_22K          
+ R13                 R_RES400_22K          
+ R14                 R_RES400_22K          
+ R15                 R_RES400_22K          
+ R16                 R_RES400_22K          
+ R17                 R_RES400_10K          
+ U1                  LM741_DIP8_3_LM741    
+ U4                  74LS90_DIP14_3_74LS90_+5V 
+ U5                  LM741_DIP8_3_LM741    
+ U6                  LM741_DIP8_3_LM741    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U4.7                           PRIM_FILE      .\pstchip.dat
+ U5.4                           PRIM_FILE      .\pstchip.dat
+ U6.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTER.brd            |
+|                                                    Wed Jul 31 16:12:02 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      71                                        |
+|       Comp definitions added:      11                                        |
+|       Components added      :      26                                        |
+|       Slot property added   :      26                                        |
+|                                                                              |
+|   Total ECO changes reported:     134                                        |
+|------------------------------------------------------------------------------|
